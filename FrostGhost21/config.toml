@@ -1,0 +1,4 @@
+baseURL = 'https://FrostGhost211.github.io/'
+languageCode = 'en-us'
+title = 'FrostGhost21'
+theme = "hugo-profile"
